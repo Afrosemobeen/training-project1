@@ -1,0 +1,11 @@
+.effects {
+  background-color: gray;
+}
+
+.mat-grid-tile {
+  background: rgb(222, 216, 216);
+}
+
+.content {
+  padding: 20px;
+}
